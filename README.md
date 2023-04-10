@@ -14,4 +14,4 @@ Team members:
 - Joel Beckles
 - Anson Ho
 
-The REVOLVER.py file is written by us and Eda Peshku. The orbital-chaos.ipynb Python notebook is an implementation of machine learning to determine the stability of orbits written by Joel Beckles. 
+The REVOLVER.py file is written by the three of us. The orbital-chaos.ipynb Python notebook is an implementation of machine learning to determine the stability of orbits written by Joel Beckles. 
