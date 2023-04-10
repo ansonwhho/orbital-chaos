@@ -3,7 +3,6 @@
 
 28/03/2021
 Alba Spahiu, Joel Beckles, Anson Ho
-Based on work originally by Eda Peshku
 
 This is a 3D Gravity simulator: an interactive game, in which the user can create multiple dots
 at the click of the mouse -> the more the mouse is kept clicked the more the mass. Each dot interacts with each other. There is an
